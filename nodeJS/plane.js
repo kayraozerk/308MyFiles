@@ -25,7 +25,7 @@ class Plane {
   }
 }
 
-module.exports = { Plane, displayInfo };
+module.export = Plane;
 
 /*
 CREATE TABLE Plane{
